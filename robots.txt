@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://caueguerra.github.io/sitemap.xml 
